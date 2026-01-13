@@ -1,1 +1,35 @@
 # Multa falsa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1030" height="579" alt="imagen" src="https://github.com/user-attachments/assets/dbec9d40-0cad-48c7-aecc-ddd104e2574e" />
