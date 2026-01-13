@@ -3,8 +3,9 @@ La estafa de la multa falsa, consiste en el envío de un SMS a nombre de la DGT.
 
 # ¿Cómo se ejecuta la estafa?
 
-
-
+1. Recibes un mensaje falso.
+2. Incluye un enlace, que parece real.
+3. 
 
 
 
