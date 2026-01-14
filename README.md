@@ -5,37 +5,19 @@ La estafa de la multa falsa, consiste en el envío de un SMS a nombre de la DGT.
 
 1. Recibes un mensaje falso.
 2. Incluye un enlace, que parece real.
-3. 
+3. El enlace una página de pago.
 
+# ¿Cómo identifico la estafa?
 
+1. La DGT no notifica por SMS, y mucho menos con enlaces de pago.
+2. La DGT notifica por un correo postal certificado.
 
+# ¿Qué debo hacer ante la estafa?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. No hagas clic en el enlace.
+2. Verifica si, realmente tienes alguna multa en la web oficial de la DGT.
+3. No contestes al SMS.
+4. Bloquea al número y elimina el mensaje.
 
 
 
